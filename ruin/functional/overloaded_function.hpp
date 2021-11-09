@@ -14,7 +14,7 @@
 
 namespace ruin
 {
-	namespace detain
+	namespace detail
 	{
 		template<class, int, class...>
 		struct overloadedfunction_base;
