@@ -25,7 +25,7 @@ GCC 5.3.0
 
 ----------------------------------------------------------------
 
-Copyright (C) 2011-2016 Yuishi Yumeiji.
+Copyright (C) 2011-2016 Yuishi Yumeiji (Amane Tsukishiro).
 
 Distributed under the Boost Software License, Version 1.0.
 
